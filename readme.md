@@ -5,8 +5,11 @@ Ex..
 URL que voce vai coloca, irar redirecionar para seu localhost, se vc n tiver nenhum servidor localhost rodando na sua maquina irar da "This site can’t be reached/Este site não pode ser acessado" caso vc tenha irar redirecionar para seu servidor local.
 Esse script n remove o endereco do arquivo hosts, voce terar que remove manualmente
 mais pra frente vou adicionar esse codigo no script.Caso voce queira acessa site novamente depois de ter usado esse script, so entrar no arquivo hosts e remove as linhas adicionadas, o local do arquivo fica
+
 Windows:C:\Windows\System32\drivers\etc\hosts
+
 Linux:/etc/hosts
+
 Mac:/private/etc/hosts
 
 
