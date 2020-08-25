@@ -11,5 +11,5 @@ Mac:/private/etc/hosts
 
 
 
-<h5>O que você verá quando o site que está tentando visitar for bloqueado</h5>
+<h4>O que você verá quando o site que está tentando visitar for bloqueado</h4>
 <img width="1433" src="https://user-images.githubusercontent.com/43188449/91207592-5cf6e000-e6df-11ea-83b9-10e991b9dfc6.jpg">
