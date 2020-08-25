@@ -28,7 +28,7 @@ Vou criar um loop infinito para ele roda pra sempre ate o usuario cancelar autom
 while True:
     
     """
-    aqui nois verifica. " ano de agora, do mes e do dia 8 do ano eh menor do que ano de agora do mes do dia 22"
+    aqui nois verifica. " ano, mes e dia 8 eh menor do que ano,mes do dia 22"
     aqui vai da False por que o ano,mes e dia 8 eh menor do que, ano,mes e dia 22, entao irar da falso
     entao ele imprime "jornada de trabalho"
     """
