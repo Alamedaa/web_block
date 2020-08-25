@@ -24,4 +24,4 @@ Mac:/private/etc/hosts
 
 
 # Author
-@Alameda
+[@Alameda]
