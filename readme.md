@@ -8,3 +8,7 @@ mais pra frente vou adicionar esse codigo no script.Caso voce queira acessa site
 Windows:C:\Windows\System32\drivers\etc\hosts
 Linux:/etc/hosts
 Mac:/private/etc/hosts
+
+
+
+<h2>O que você verá quando o site que está tentando visitar for bloqueado</h2>
